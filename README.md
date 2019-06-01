@@ -1,5 +1,5 @@
 # moderno-zsh
-A modern ZSH theme inspired by the robbyrussell's Oh-my-zsh theme
+A simple and modern ZSH theme inspired by robbyrussell's theme
 
 ## Installation  
 ### For [antigen](https://github.com/zsh-users/antigen) users
